@@ -43,8 +43,7 @@ This project addresses key analytical tasks aimed at providing insights for data
 
 ## Technologies Used
 - SQL
-- Data Visualization Tools (e.g., Power BI, Tableau)
-- Python (for data processing)
+-mysql workbench
 
 ## Conclusion
 This project aims to provide actionable insights that will enhance decision-making and strategic planning for Atliq Hardwares.
